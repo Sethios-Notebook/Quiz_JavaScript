@@ -16,9 +16,9 @@ Utilisation
 Pour lancer l'application localement :
 
 Bash
-"""
+```
 npm start
-"""
+```
 
 # Structure du projet
 V1: Contient le code source de l'application.
@@ -37,4 +37,6 @@ Licence
 Ce projet est sous licence MIT.
 
 Auteurs
+```
 Sethios-Notebook('sethiosmservice@oulook,fr')
+```

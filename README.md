@@ -4,11 +4,11 @@
 Prérequis: Les technologies nécessaires (Node.js, npm ou yarn).
 Instructions d'installation:.
 Bash
-"""
+```
 git clone https://github.com/Sethios-Notebook/QuizJavaScript.git
 cd QuizJavaScript
 npm install
-"""
+```
 # Quiz JavaScript : Quiz sur les cap
 Un quiz simple pour tester vos connaissances sur les capitales des différents pays.
 

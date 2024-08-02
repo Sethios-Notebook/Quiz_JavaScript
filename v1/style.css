@@ -84,6 +84,9 @@ body {
   width: min(100%, 500px);
 }
 
+#app h1 {
+  text-align: center;
+}
 button {
   display: inline-block;
   outline: none;
